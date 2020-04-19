@@ -1,3 +1,5 @@
+//provider file for AWS cloud
+
 provider "aws" {
 
 access_key = "mykey"
