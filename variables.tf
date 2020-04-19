@@ -1,3 +1,5 @@
+//Varibles file for the resources
+
 variable "ami" {
   type = "map"
 
