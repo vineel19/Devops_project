@@ -1,0 +1,8 @@
+[kubernetes-master-nodes]
+kubernetes-Instance1 ansible_host=10.0.0.1
+
+[kubernetes-worker-nodes]
+kubernetes-Instance2 ansible_host=10.0.0.2
+kubernetes-Instance3 ansible_host=10.0.0.3
+kubernetes-Instance4 ansible_host=10.0.0.4
+kubernetes-Instance5 ansible_host=10.0.0.5
