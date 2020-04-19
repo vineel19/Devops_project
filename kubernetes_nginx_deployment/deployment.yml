@@ -20,7 +20,3 @@ spec:
   volumeMounts:
       - name: basic-config
         mountPath: /etc/nginx/default.conf
-  volumes:
-    - name: basic-config
-      configMap:
-        name: basic-config 
